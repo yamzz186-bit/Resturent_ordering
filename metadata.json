@@ -1,0 +1,6 @@
+{
+  "name": "Seat & Serve",
+  "description": "Smart Restaurant Reservation, Queue and Food Order Coordination System with advance dining orders, live waitlist tracking, and kitchen management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
